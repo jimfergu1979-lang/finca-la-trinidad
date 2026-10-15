@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jimfergu1979-lang.github.io/finca-la-trinidad/sitemap.xml
